@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ray" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAAAIKAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometry.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACAAAAAAAAAQEAAAAAAIAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Sphere.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Picture" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgJABAAAAAAUAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Picture.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Light" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAIgAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Light.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RayTracer" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAQIIAEAAAABAAAIAAAAA=</HashCode>
+      <FileName>RayTracer.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Vec" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAIAAAEAAAAAAACAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Geometry.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
